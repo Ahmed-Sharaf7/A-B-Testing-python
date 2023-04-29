@@ -3,4 +3,6 @@ This is an A/B test that an E-commerce company would use to decide wether to app
 - Implement the new webpage,
 - Keep the old webpage, or
 - Perhaps run the experiment longer to make their decision.
+
+
 The project uses Python ( pandas, numpy, random and matplotlib)
